@@ -9,7 +9,9 @@ Building intelligent systems, designing scalable web apps, and exploring the int
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%2FML+Engineer;Full+Stack+Developer;Computer+Science+Student;Building+AI+Products&center=true&width=500&height=45">
 </p>
 
----
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=maryammFarooq&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ## 🌙 About Me
 
@@ -75,11 +77,11 @@ Building intelligent systems, designing scalable web apps, and exploring the int
 ## 🌍 Connect With Me
 
 <p align="center">
-
 <a href="mailto:fmaryam865@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail" height="35"/>
+</a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/maryam-farooq-84246335a">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
 </a>
-
 </p>
 
 ---
