@@ -77,8 +77,7 @@ Building intelligent systems, designing scalable web apps, and exploring the int
 ## 🌍 Connect With Me
 
 <p align="center">
-<a href="mailto:fmaryam865@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail" height="35"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=fmaryam865@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail" height="35"/>
 </a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/maryam-farooq-84246335a">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
 </a>
