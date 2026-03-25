@@ -68,7 +68,7 @@ Building intelligent systems, designing scalable web apps, and exploring the int
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maryammFarooq&theme=tokyonight" height="170"/>
+<img src="https://streak-stats.demolab.com?user=maryammFarooq&theme=tokyonight" />
 
 </p>
 
